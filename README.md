@@ -20,7 +20,7 @@ My memory is not perfect, but from my experiences in highschool and university, 
 
 So months ago, I decided to bring this up as a conversation topic with a group of my friends. One agreed with me and the other claimed to not have noticed. Regardless, we started to brainstorm theories as to why this was the case. My personal theory in *normal* terms (see how I really word my theory in `analysis.ipynb`) is that women conduct this behavior because it gives off a more gentle vibe, giving them *softer* tone, ultimately making them seem more approachable.
 
-Of course theories like this are not testable, but while I was working on the project, I came to the realization a hypothesis test *can* be conducted; and that's why I did.
+Of course theories like this are not testable, but while I was working on the project, I came to the realization a hypothesis test *can* be conducted; and that's what I did.
 
 As for my data set, my knowledge in python limited me to simple web scraping techniques. Thus, I scraped the Berkeley's 61A Academic Intern pages of various semesters (process explained in furhter detail in `scraper.ipynb`). With the data of $644$ AIs I cleaned, transformed, and added features to the data so that I could perform an A/B test.
 
